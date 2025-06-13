@@ -5,3 +5,4 @@ seaborn
 scipy
 tabulate 
 scikit-learn
+imbalanced-learn
